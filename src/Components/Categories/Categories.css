@@ -1,0 +1,10 @@
+.navbar {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-link.active {
+    background-color: #fff;
+    color: rgb(4, 4, 71);
+  }
+  
